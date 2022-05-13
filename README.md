@@ -1,4 +1,8 @@
 
+
+Cucumber TestSuite is located here : \\src\test\java\todos\CucumberTestSuite.java
+Feature file is located here : \\src\test\resources\features 
+
 ## Test 1
 
 
